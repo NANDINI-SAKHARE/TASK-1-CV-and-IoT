@@ -1,6 +1,7 @@
 ### Task1_IoT_and_CV
 
-- This project is a part of internship under 'The Sparks Foundation' in the domain Computer Vision and Internet of Things. Originally, I'm an intern under the GRIP and did this task in order to get a LOR.
+- This project is a part of internship under 'The Sparks Foundation' in the domain Computer Vision and Internet of Things. 
+- Originally, I'm an intern under the GRIP and did this task in order to get a LOR.
 - The project is based upon Optical Character Recognition (OCR)
 - Language : Python
 - IDE : PyCharm
