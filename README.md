@@ -3,8 +3,8 @@
 - This project is a part of internship under 'The Sparks Foundation' in the domain Computer Vision and Internet of Things. 
 - Originally, I'm an intern under the GRIP and did this task in order to get a LOR.
 - The project is based upon Optical Character Recognition (OCR)
-- Language : Python
-- IDE : PyCharm
+- Language used: PYTHON
+- IDE (Integrated Development Environment): PYCHARM
 - To learn more about the project check the links below.
 
 <br />
